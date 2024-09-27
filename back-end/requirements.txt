@@ -1,0 +1,12 @@
+aiomysql==0.2.0
+asyncio==3.4.3
+datetime==5.5
+fastapi[all]==0.89.1
+pyjwt==2.9.0
+motor==3.5.1
+pydantic==1.10.4
+pymongo==4.8.0
+python-dotenv==0.20.0
+pytz==2021.3
+slowapi==0.1.9
+uvicorn==0.20.0

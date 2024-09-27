@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+.linkText {
+    color: #08a1e8;
+}
+
+.linkText:hover {
+    color: #83bcd6;
+}
